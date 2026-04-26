@@ -45,8 +45,3 @@
 * **Owner’s Mobile App:** A dedicated Flutter-based application for owners to monitor real-time dashboards and financial health from anywhere.
 
 ---
-
-## 🛠 Technical Stack
-* **Frontend:** Flutter (Mobile/Web/Desktop)
-* **Backend:** Python (Flask)
-* **Database:** PostgreSQL / SQLite (for offline sync)
