@@ -11,7 +11,7 @@ Rest Link is a comprehensive management solution designed for restaurant owners 
 
 ## 📱 Social Media & Contact
 Stay updated with our latest features and community:
-* **Facebook:** [Rest Link Official](https://www.facebook.com/profile.php?id=61584607701996)
+* **Facebook:** [Rest Link Page](https://www.facebook.com/profile.php?id=61584607701996)
 * **Instagram:** [@restlink.25](https://www.instagram.com/restlink.25?igsh=MWI1Z2tydzdiODY0aA==)
 
 ---
