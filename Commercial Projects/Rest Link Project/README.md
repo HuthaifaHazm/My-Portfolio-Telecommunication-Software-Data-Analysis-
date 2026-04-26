@@ -5,13 +5,13 @@ Rest Link is a comprehensive management solution designed for restaurant owners 
 ---
 
 ## 🔗 Project Links
-* **🌐 Web Application:** [Click here to visit](http://restlinklivedemo.hilalx.com:8080/)
-* **🧪 Demo Environment:** [Access Demo Here](https://restlink.net/)
+* **🌐 Web Site:** [Click here to visit](https://restlink.net/)
+* **🧪 Demo Environment:** [Access Demo Here](http://restlinklivedemo.hilalx.com:8080/)
   * *Note: See `Credentials.txt` in this folder for login details.*
 
 ## 📱 Social Media & Contact
 Stay updated with our latest features and community:
-* **Facebook:** [Rest Link Official](https://facebook.com/yourpage)
+* **Facebook:** [Rest Link Official](https://www.facebook.com/profile.php?id=61584607701996)
 * **Instagram:** [@restlink.25](https://www.instagram.com/restlink.25?igsh=MWI1Z2tydzdiODY0aA==)
 
 ---
